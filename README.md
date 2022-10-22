@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tomer Baram! Welcome 👋
 
 <!--
 **tomerbaram1/tomerbaram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
