@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning FullStack development.
 - 💬 Ask me about my projects.
 - 📫 My Linkdin: https://www.linkedin.com/in/tomer-baram-367517243/
-- 😄 Pronouns: Tom'ch
 - ⚡ Fun fact: I love coffee more then anything.
 <!--
 **tomerbaram1/tomerbaram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
